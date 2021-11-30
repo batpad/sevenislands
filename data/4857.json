@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "file.jpg": "006.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.81051635742188,
+          18.89735424574327
+        ]
+      }
+    }
+  ]
+}

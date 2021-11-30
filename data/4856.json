@@ -1,0 +1,184 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "tittle": "the submerged forest",
+        "description": "One of the city's most beloved biographer, Govind Narayan(1)  mentions a certain Dr Buist(2) in his mid 19th century account of Bombay. <br> 'Many geologists, including Dr Buist were of the view that the five or six islands, which currently make up Mumbai were once one large island that might have been separated during a major earthquake or other catastrophe, leading to the current shape of Mumbai.'(3) <br> 'Further evidence of prehistoric eruption and depression is furnished by the discovery of a submerged forest below the Prince's Dock. <br> The remains, which came to light during the excavation  of the dock in the closing years of the nineteenth century, were 32 feet below the high water mark, and consisted of a thick forest of upright stump of trees of a species still existing  in the neighbourhood of this island, the Khair (Arabia Catechu). <br> There were in all 382 trees, 223 still standing erect and 159 prostrate, though still rooted in the soil. <br> They were found on a decayed trap-rock soil, overlaid by the thick stratum of clay which forms the real bottom of the harbour.'(4) <br> (1) Govind Narayan's Mumbaiche Varnan ; possibly the first urban biography of Mumbai written in 1863 in Marathi by a Wilson College Professor. <br> (2) George Buist LL.D. (1805–1860) was a Scottish journalist & scientist. <br> (3) Quote - Govind Narayan's Mumbai- Edited & Translated-Murali Ranganathan <br> (4) Quote -The Rise of Bombay - S. M. Edwardes",
+        "file.jpg": "002.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8443658351898,
+          18.951316038997117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tittle": "an offering to the sea-goddess",
+        "description": "Upon hearing the news of the presence of a giant squid (or Genus Architeuthis) trapped in the gnarled mangrove roots due to the low tide off of the place that would be named Pydhonie(1); Kanhoji Angre(2)  had his lieutenant send for three of his capable messengers. <br> \"Go!!\" he cried, \"and appease that poor dying creature, with an offering and a prayer. She will determine our fate in the coming months, for she is most assuredly an incarnation of the sea goddess who watches over this naval fleet.\" <br> He was, of course referring to the impending Battle of Bicholim, which would decide the destiny of the power struggle between the Marathas and the Portuguese over Bombay and the Konkan coastline. The Marathas were fearless, and a constant niggling worry to the Portuguese as well as English fleets, but the wily naval commander would nevertheless deny no opportunity to allay the brewing hostilities. <br> He was so convinced of this creature's appearance as an omen that he further instructed his men to make sure it was to be made as comfortable as possible by continuously bathing it in salt water till it passed on...Somewhere, somehow the gods seemed to be listening, and prayers were answered for as history would show, the Battle of Bicholim never actually took place. <br> (1) Pydhonie: Etymologically the name is derived from the Marathi word Py which means feet, and dhoni which means to wash. Thus the name means \"A place where feet are washed\". This was probably the first land permanently reclaimed from the sea in Mumbai. \"The name Pydhonie or \"foot-wash\" probably refers to a small creek that formed at high tide between the Great Breach (separating the islands of Bombay and Worli) and Umarkhadi (the creek between the islands of Mazagaon and Bombay). <br> (2) Kanhoji Angre or Conajee Angria or Sarkhel Angre: (August 1669-July 1729) was the first notable chief of the Maratha Navy in 18th century India. Sarkhel is a title equal to Admiral of a Fleet. He fought against the British, Dutch and Portuguese naval interests on the coasts of India during the 18th century. As a result, his European enemies labeled him a pirate. Despite the attempts of the British and Portuguese to subdue Angre, he remained undefeated until his death.",
+        "file.jpg": "003.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84399032592773,
+          18.984382739576837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tittle": "getting to Mendham's point",
+        "description": "The breach between Colaba & Old Woman's Island was not formidable and was only covered by the sea at high tide. But between Old Woman's Island and Mendham's Point on Bombay Isle, there was a marginally deep channel, which in later years could be crossed on a ferry boat pulled by rope. <br> Mendham's Point was the old British cemetery across the channel (Mendham being the first person buried there). Today, one would have to stand facing the north at Colaba Police Station next to Leopold Cafe in South Mumbai and imagine Mendham's Point somewhere close to the Prince of Wales Museum and the hand-pulled ferry transporting people across this channel. <br> A stone commemorating the spot from where the ferry ran now lies within the confines of the Colaba Police Station. The northern stretch of the Colaba Causeway rests over this channel now, and the turtle population residing around the Old Woman's Island is long gone. <br> Gone too are the Koli settlements that once thrived here and cast their fishing nets along the coast till Al-Omani and back, which is how Old Woman's Island got its name, albeit a corruption.",
+        "file.jpg": "004.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.82888412475586,
+          18.91935920217686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tittle": "the death of the tide",
+        "description": "Between the two foremost buildings located at the mouth of the gorge, the old city appears to brace itself for the rush of the incoming lunar tide. <br> The inlet, being fortified by the enormous embankments of the walled city, survives the onslaught of the wretched Arabian sea while forcing huge tidal-wave-high walls of water in towards the city centre... <br> It remains unexplained, but the pull of the stars on that gate subdues the oncoming tide till the water just spreads through the streets at no more than an inch in height, washing the streets clean instead of washing the city away. <br> This phenomenon occurs every three weeks, the island being reverse engineered by its gatekeepers, the Kumbhars; a proud, noble race whose expertise in brick and clay has yielded the prosperous kingdom of Dharavi.",
+        "file.jpg": "005.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8558349609375,
+          19.045932822540173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tittle": "Maunsell Sea-forts",
+        "description": "The Maunsell Forts were small fortified towers built in the Thames and Mersey estuaries during the Second World War to help defend the United Kingdom. They were operated as army and navy forts, and named after their designer, Guy Maunsell. The forts were decommissioned in the late 1950s and later used for other activities.  <br> Two forts were simultaneously commissioned by the British Naval Command at the proposed site for the Prong's Lighthouse at the southernmost tip of Mumbai and the other one off the coast of the famous Mahalakshmi temple or Breach Candy as it is called. The controversial projects got the green light at the start of the war due to the immediate need for protecting the Empire's last colonial outposts. A total blueprint of 7 forts were drawn up but rising costs during the war forced the project to be shelved after the completion of these two forts. <br> Ironically, recently, a few aggressive environmental groups have been squatting in these massive abandoned decrepit structures, environmental hazards in their own right; relics of the war which now serve as watchtowers for guerrilla tactics. ",
+        "file.jpg": "006.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.80982971191406,
+          18.894512066162637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tittle": "the Kodak Company Periscope",
+        "description": "Photographic studios start appearing in Mumbai in the early part of the 19th century. Reclamation is underway and it won't be long before the easily accessible inland water bodies will be a thing of the past. While photography is changing and people can now use the daguerreotype to take portraiture photographs, an interesting event starts occurring in Bombay. People start hearing about 'joyrides for the public' that are gathering momentum in England.  Some erudite and street-smart businessmen start hatching plans to monetize and corner this market in Bombay and its endless possibilities when it comes to entertaining the public. Keeping the proximity of water in mind and its easy access, the Kodak Company run photographic studios decide to invest in a small project and 'The Kodak Company Periscope' is born. <br> The plan is simple. To invest in hybridizing a form of reverse-periscope with the aquatic velocipede(1).  People sit in a velocipede and view aquatic life. Unlike a regular periscope, this one performs a reverse function, i.e. the capacity of looking into the water, hence unlocking the wonders of the ocean world. <br> (1) Aquatic velocipede: The great success of the bicycle as a means of transportation on land spurred many back-yard mechanics to invent an aquatic counterpart. By the 1890s, several of these inventions were showing up in Central Park and became quite popular as recreational machines, a niche that they retained throughout the 20th century.",
+        "file.jpg": "007.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8364372253418,
+          19.046054520619048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tittle": "the Lone Sentry",
+        "description": "The lone sentry stands in rapt attention, his shoulders relaxed but his gaze alert and mien robust. He stands testament to the naval might of the Marathas (Marhatta), adapting well to life between the waves in the early 17th century. <br> The Maratha Warrior:  The Maratha (archaically transliterated as Marhatta or Mahratta) is a group of castes in India predominantly found in the state of Maharashtra. According to the Encyclopaedia Britannica, \"The Maratha group of castes is a largely rural class of peasant cultivators, landowners, and soldiers. Some Maratha and Kunbi have at times claimed Kshatriya (the warrior and ruling class) standing and supported their claims to this rank by reference to clan names and genealogies linking themselves with epic heroes, Rajput clans of the north, or historical dynasties of the early medieval period. The Marathas primarily reside in the Indian states of Maharashtra, Madhya Pradesh, Gujarat, Karnataka, Goa and Tamil Nadu. Those in Goa and neighbouring Karwar are known specifically as Konkan Marathas as an affiliation to their regional and linguistic alignment.",
+        "file.jpg": "008.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.78511047363281,
+          19.006944281154613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tittle": "he story of the three goddessest",
+        "file.jpg": "011.jpg",
+        "description": "One other legend must be recorded. It is related to the construction of the Hornby Vellard, the solution by way of a causeway that would solve the problem of the tide breaching the channel; 'the Great Breach' which flooded the low lying mainland at high tide.  <br> It is to this effect that during the era of Mahomedan domination, the Goddess Mahalakshmi was so persecuted that she leapt from the shore into Worli Creek and remained there in hiding until after the Portuguese had ceded the island to the English. During the early stages of the attempt to dam the Great Breach, the Goddess appeared to one Ramji Shivji, a Prabhu(1)contractor, and to quote from The Gazetteer-  \"promised that, if he tendered his services to Government for the construction of a causeway, she would remove all obstacles, provided that he first remove the images of herself and her two sisters goddesses from their watery resting place and established them in a proper shrine on land. Ramji acted accordingly to these divine instructions and eventually, after the Hornby(2)Vellard(3) had been successfully built, obtained from the Bombay Government a grant of the site upon which the temples still stand.\"  <br> It is an important history nevertheless because this event sparks what became the reclamation drive that was to grip the city for the next 300 years. <br> (1) Pathare Prabhu: The Pathare Prabhu community is a caste of Mumbai which settled in that region in the 13th century, and had gained prosperity during the development of Bombay by the British in the 18th century.  <br> (2) William Hornby: Governor of Bombay 1771-1784. He is usually credited with having built the Hornby Vellard which was named after him. It is a contentious claim as there is no report of it in the Imperial Gazzetteer as reported by a later and much respected historian Samuel Sheppard, who writes...\"Not content with only crediting Hornby with this great work, writers like Maclean and Douglas adhere to the pleasing fiction that he built it in defiance of the Court's orders\". J.M.Maclean, in his 'Guide to Bombay' writes...\"about the time the Vellard was finished, Governor Hornby, opening with his own hand the despatches, found an order for his suspension which, his term of office being nearly expired, he put in his pocket until he had finally handed over charge to his successor. The Hon. Court of Directors were excessively irate, and an order came out which, we believe, has ever since been in force that the Governor should never open the despatches in future, but that they should first be perused by one of the secretaries of Government.\" Again, Samuel Sheppard scoffs at this account. \"There is no record of any of this, or of any other quarrel about the Vellard with Hornby, in the India Office. It is one of the fictions of Bombay–much like the story of the embezzlement of the funds for building the Cathedral- that have been handed down from one writer to another.\" <br> (3) Vellard: Portuguese for embankment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.80776441097258,
+          18.977382359281812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tittle": "Maratha Naval Officer Commandeers The 2nd Bushnell Prototype",
+        "description": "The Bushnell Prototype emerges in 1775. American Inventor David Bushnell builds an egg-shaped submarine called 'The Turtle'. Designed to plant mines on the hulls of enemy ships, it is made entirely of wood and driven by a propeller which is cranked by hand. <br> Illness forces Bushnell's brother to replace him at the nth minute for its maiden mission. He manages to plant the mine, but a mishap occurs and the ancient submersible sinks in the NY harbour. He manages to escape, but the contraption is never found. Bushnell is suspected to have salvaged it in secret... <br> David Bushnell goes on to share his second prototype designs eagerly within the scientific community and on the black market while his design is rendered obsolete by the rapid technological advances in naval marine engineering... It is often said that the Marathas* (whose naval supremacy was on the decline despite their initial genius naval tactics that had terrorized Portuguese, English and Dutch fleets for over a century) were testing out a 2nd secret prototype of the Bushnell device in and around the Panavell river close to the 7 isles. <br> * The term Maratha has three related usages: within the Marathi-speaking region it describes the dominant Maratha caste; outside the Marathi-speaking region, it denotes anyone who speaks Marathi; and historically, the term is used to denote the Maratha Kingdom founded by Shivaji in the seventeenth century and continued by his successors.",
+        "file.jpg": "013.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.86407470703125,
+          18.912132801428715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tittle": "the Bundelkhand Mine",
+        "description": "The son of the Raja of Bundelkhand was a legendary innovator, explorer, submariner and mad-genius scientist. It is a little known fact that the mold of the current tetrapod design (used in reclamations & surf-breakers today) were actually mines used in combat and designed originally by the Prince of Bundelkhand. The tetrahedron design is said to have originated from the shape of the ancient caltrop antipersonnel weapon (Caltrops, Latin for foot-traps, were part of defenses that served to slow the advance of horses, war elephants, and human troops). <br> The Prince was a brilliant submersible tactical-combat expert and well versed in naval warfare-design and equipment. He was even admired by the last king of the Ottoman empire, whom he assisted in the design of the Abdul Hamid; the world's first torpedo-shooting submarine. <br> The tetrapod-shaped molds were planted as mines on the ocean bed but their use had to be discontinued due to their tendency to drift and as well as problems with their centre of gravity while floating. Subsequent changes in mine design adopted the all-too-familiar spherical shape.",
+        "file.jpg": "010.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.80570983886717,
+          18.93876338396899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tittle": "joy rides",
+        "file.jpg": "012.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83454895019531,
+          18.964415660658197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tittle": "the Koh-i-Noor Diamond fragment",
+        "description": "The Koh-I-Noor Diamond, while in possession of Aurangzeb, the Mughal Emperor who had recently imprisoned his ailing father Shah Jahan, was cut by Hortenso Borgia, a Venetian lapidary, who was so clumsy that he reduced the weight of the stone from 793 carats to 186 carats, creating a smaller yet precious fragment. Legend has it that Aurangzeb had the Koh-I-Noor positioned near a window so that Shah Jahan could see his creation, the Taj Mahal only by looking at its reflection in the stone. <br> Unknown to the powers that be, this fragment was smuggled out of the Mughal kingdom and was to make its way to Europe to be sold. The famed and feared Konkan pirates sunk the ship carrying the ill-fated diamond fragment and it was lost to the seas off the island of Salsette. Strong ocean currents or shifting tides may have moved the wreckage of the ship, because the diamond fragment is yet to  resurface...an alternate end to the annexing of the original diamond by the British East India Company and subsequent transporting of it to London.",
+        "file.jpg": "009.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.81806945800781,
+          19.059521889847343
+        ]
+      }
+    }
+  ]
+}

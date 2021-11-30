@@ -1,0 +1,103 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "tittle": "Mahim Island (Maijim)",
+        "description": "In ancient times, Mahim was known as Maijim, Mejambu or Mahikavati and was a densely wooded forest. Mahikavati was the kingdom built by the 12th century Hindu king Raja Bimba or Bhimdev who with his followers were probably the original settlers of Bombay. He built the famous Babulnath temple and a palace at Prabhadevi."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83798217773438,
+          19.023336000027605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tittle": "Worli Island (Warli)",
+        "description": "Worli was one of the original 7 islands of mumbai and had a strategic fort located at its edge. The Worli island was one end of what formed the Great Breach which was connected to the main Bombay isle by the Hornby Vellard which dammed the great breach. Landfill from the Worli hill was used in the reclamation of the race course area."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.81686782836914,
+          19.006619676346205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tittle": "Bombay Island (Bom baim)",
+        "description": "The isle of Bombay was one of the 7 islands that made up the city of Bombay as it was till the 18th century before a series of land reclamations formed them into a peninsula. Bombay Isle stretched from Malabar Hill in the West to Dongri in the East."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.82270431518555,
+          18.951914727330074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tittle": "Old Woman's Island (Al-Omani)",
+        "description": "Old Woman's Island or Al-Omani as it was known as signified the Koli settlement that thrived on this isle and its fishing trawlers that cast their nets all the way to Oman. It is surmised that the name might have come to be from even the Omanis visiting these shores via the same route."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.82776832580565,
+          18.917978902570862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tittle": "Colaba Island (Kolabhat)",
+        "description": "Colaba island (also known as Kolbhat, or 'place of Kolis') was one of the 7 islands that made up the hilly archipelago of Bombay. The area presently known as Colaba island initially consisted of two islands, Kolbhat (Colaba)and Al-Omani (Old woman's island)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8148078918457,
+          18.905474492872504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tittle": "Mazagaon Island (Matsya Gram)",
+        "description": "Mazagaon is supposed to be a corruption of the word 'my town' or 'maza-gaon' or even 'macchi-gaon', as in 'fish town'. It was one of the 7 islands that comprised Bombay till the 18th century."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83858299255371,
+          18.973425492476498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tittle": "Sion-Parel (Shiv-Parella)",
+        "description": "Parel was one of the original seven islands of Bombay. It belonged to the 13th century kingdom of Raja Bhimdev. When the Portuguese conquered Bombay, they gave the authority of this area to the Jesuit priests. 'Parell' remained with the Jesuits until they were confiscated by the British, after the priests sided with the Sidis during their battle with the British in 1689. In the 1770s, William Hornsby, the Governor of Bombay, shifted his official residence to Parel. This area then became one of the poshest areas of the city."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.84467697143555,
+          19.003292440538416
+        ]
+      }
+    }
+  ]
+}
